@@ -6,7 +6,7 @@ a simple AI LLM Web Search Summarizer based on the Node-RED-AI-Toolkit
 
 
 
-![AI WebSearch Flow](AI-WebSearch-Flow.json)
+![AI WebSearch Flow](AI-WebSearch-Flow.png)
 
 
 
