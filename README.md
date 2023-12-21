@@ -15,11 +15,13 @@ This repository contains a [Node-RED](https://nodered.org/) flow which implement
 
 The flow stops after the first successful information retrieval, i.e. it does not (yet) combine the contents of several documents.
 
+## Installation ##
 
+(ai-toolkit, uibuilder, flow, model download)
 
+## Usage ##
 
-
-
+(url,model selection,explanation of progress messages)
 
 ## License ##
 
