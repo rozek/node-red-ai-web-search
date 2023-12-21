@@ -23,6 +23,15 @@ The flow stops after the first successful information retrieval, i.e. it does no
 
 (url,model selection,explanation of progress messages)
 
+While running, the flow emits several progress messages:
+
+- the first one informs about the actual search prompt the AI has constructed and which is now used to search the web
+- additional ones show the URL of documents found by the web search ehich are now fetched and analyzed by the AI
+
+Analyzation is done in two steps:
+
+1. at first, the requested information is
+
 ## License ##
 
 [MIT License](LICENSE.md)
