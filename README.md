@@ -4,7 +4,7 @@ a simple AI LLM Web Search Summarizer based on the Node-RED-AI-Toolkit
 
 ![AI WebSearch Screenhot](AI-WebSearch-Screenshot.png)
 
-This repository contains a [Node-RED](https://nodered.org/) flow which implements an AI-assisted web search. It is primarily intended to serve as an example for the Node-RED AI Toolkit, but may also be used on its own.
+This repository contains a [Node-RED](https://nodered.org/) flow which implements an AI-assisted web search. It is primarily intended to serve as an example for the [Node-RED AI Toolkit](https://github.com/rozek/node-red-ai-toolkit), but may also be used on its own.
 
 ![AI WebSearch Flow](AI-WebSearch-Flow.png)
 
