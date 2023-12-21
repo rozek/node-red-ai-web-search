@@ -26,14 +26,14 @@ The flow stops after the first successful information retrieval, i.e. it does no
 While running, the flow emits several progress messages:
 
 - the first one informs about the actual search prompt the AI has constructed and which is now used to search the web
-- additional ones show the URL of documents found by the web search ehich are now fetched and analyzed by the AI
+- additional messages show the URL of documents found by the web search which are now fetched and analyzed by the AI
 
 Analysis is done in two steps:
 
-1. at first, the requested information is extracted from the downloaded text document (HTML documents are first converted into text, non-text documents such as videos are ignored)
-2. unfortunately, however, the AI is not always right with its output (sometimes it just complains that no relevant information could be found). For that reason, in a second step, the extract from step 1 is checked against what was originally requested
+1. at first, the requested information is extracted from the downloaded text document (before, HTML documents are converted into text and non-text documents such as videos are ignored)
+2. unfortunately, however, the AI is not always right with its output (sometimes it just complains that no relevant information could be found). For that reason, in a second step, the extract from step 1 is checked against what was originally requested.
 
-This additional validation step significantly enhances the quality of the final output
+This additional validation step significantly enhances the quality of the final output.
 
 ## License ##
 
