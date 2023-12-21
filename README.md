@@ -21,7 +21,7 @@ The flow stops after the first successful information retrieval, i.e. it does no
 
 ## Usage ##
 
-(url,model selection,explanation of progress messages)
+(url,model selection)
 
 While running, the flow emits several progress messages:
 
