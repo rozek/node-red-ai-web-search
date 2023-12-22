@@ -17,7 +17,13 @@ The flow stops after the first successful information retrieval, i.e. it does no
 
 ## Installation ##
 
-(ai-toolkit, uibuilder, flow, model download)
+This example requires a running Node-RED instance with installed [Node-RED AI Toolkit](https://github.com/rozek/node-red-ai-toolkit). If not already done, please follow the [installation instructions for the toolkit](https://github.com/rozek/node-red-ai-toolkit#installation) before continuing.
+
+Then, follow the [instructions found in the UIBuilder Docs](https://totallyinformation.github.io/node-red-contrib-uibuilder/#/walkthrough1?id=how-to-get-started-4-steps-to-a-data-driven-web-app) to install the UIBuilder nodes.
+
+Now, it's time to import the contents of file [AI-WebSearch-Flow.json](https://raw.githubusercontent.com/rozek/node-red-ai-web-search/master/AI-WebSearch-Flow.json) - preferably into a new Node-RD workflow.
+
+If necessary, you may also download a supported AI model (in GGUF format) into the toolkit's model folder.
 
 ## Usage ##
 
