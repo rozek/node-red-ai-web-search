@@ -33,6 +33,8 @@ The web page should immediately receive a list with all installed AI models - ju
 
 Now enter your request. Feel free to describe your wishes (but don't expect too much right now - I'm still in the process of making prompt generation and text inference more robust and useful), then press "Sumbit".
 
+> Nota bene: web search currently does not restrict its findings to a certain language (such as english) it may therefore happen that you get a response in a different language. However, the results may stil be impressive...
+
 While running, the flow emits several progress messages:
 
 - the first one informs about the actual search prompt the AI has constructed and which is now used to search the web
