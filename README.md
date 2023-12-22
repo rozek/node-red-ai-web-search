@@ -47,6 +47,12 @@ Analysis is done in two steps:
 
 This additional validation step significantly enhances the quality of the final output.
 
+**Try it - it's fun!**
+
+...particularly, if the system con _not_ answer a question:
+
+![Screenshot of an AI Web Search Failure](AI-WebSearch-Failure.png)
+
 ## License ##
 
 [MIT License](LICENSE.md)
