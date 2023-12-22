@@ -49,7 +49,9 @@ This additional validation step significantly enhances the quality of the final 
 
 **Try it - it's fun!**
 
-...particularly, if the system can _not_ answer a question and admits its failure:
+![Screenshot of an AI Web Search Success](AI-WebSearch-Success.png)
+
+And, the system admits its failure if it can _not_ answer a question:
 
 ![Screenshot of an AI Web Search Failure](AI-WebSearch-Failure.png)
 
