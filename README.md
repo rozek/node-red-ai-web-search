@@ -27,7 +27,11 @@ If necessary, you may also download a supported AI model (in GGUF format) into t
 
 ## Usage ##
 
-(url,model selection)
+UIBuilder and the AI WebSearch flow will create and manage all files needed for the web frontend. Just navigate your browser to [http://127.0.0.1:1880/ai-web-search](http://127.0.0.1:1880/ai-web-search) where `1880` is the port number configured for Node-RED and its flow editor.
+
+The web page should immediately receive a list with all installed AI models - just choose one and you're set.
+
+Now enter your request. Feel free to describe your wishes (but don't expect too much right now - I'm still in the process of making prompt generation and text inference more robust and useful), then press "Sumbit".
 
 While running, the flow emits several progress messages:
 
