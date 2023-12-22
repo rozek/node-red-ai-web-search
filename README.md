@@ -35,7 +35,7 @@ UIBuilder and the AI WebSearch flow will create and manage all files needed for 
 
 The web page should immediately receive a list with all installed AI models - just choose one and you're set.
 
-Now enter your request. Feel free to describe your wishes (but don't expect too much right now - I'm still in the process of making prompt generation and text inference more robust and useful), then press "Sumbit".
+Now enter your request. Feel free to describe your wishes (but don't expect too much right now - I'm still in the process of making prompt generation and text inference more robust and useful), then press "Submit".
 
 > Nota bene: web search currently does not restrict its findings to a certain language (such as english) it may therefore happen that you get a response in a different language. However, the results may stil be impressive...
 
