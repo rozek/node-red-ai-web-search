@@ -59,6 +59,10 @@ And, the system admits its failure if it can _not_ answer a question:
 
 ![Screenshot of an AI Web Search Failure](AI-WebSearch-Failure.png)
 
+Nonsense in - nonsense out:
+
+![Screenshot of an AI Web Search Nonsense](AI-WebSearch-Nonsense.png)
+
 ## License ##
 
 [MIT License](LICENSE.md)
