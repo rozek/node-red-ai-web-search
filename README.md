@@ -15,6 +15,10 @@ This repository contains a [Node-RED](https://nodered.org/) flow which implement
 
 The flow stops after the first successful information retrieval, i.e. it does not (yet) combine the contents of several documents.
 
+> **Important**: the AI toolkit and its examples are currently being developed very actively. Come back from time to time and watch out for additional models, better prompts, additional nodes and more robustness. 
+
+> Just a small note: if you like this module and plan to use it, consider "starring" this repository (you will find the "Star" button on the top right of this page), so that I know which of my repositories to take most care of.
+
 ## Installation ##
 
 This example requires a running Node-RED instance with installed [Node-RED AI Toolkit](https://github.com/rozek/node-red-ai-toolkit). If not already done, please follow the [installation instructions for the toolkit](https://github.com/rozek/node-red-ai-toolkit#installation) before continuing.
